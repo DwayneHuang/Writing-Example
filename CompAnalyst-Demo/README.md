@@ -1,4 +1,4 @@
-该产品 Demo 参考 Salary 在 Youtube 上发布的 “CompAnalyst Demo Overview”，用 Google Antigravity，vibe coding 得到。由于 Claude Opus 4.6 额度达到上限，导致 coding 中产生中断，好在得到的结果在交互上效果不错，因此展示出来，但 Demo 细节还有待加强。具体 prompt 参考文件 *HR_Compensation_Analytics_Demo_Prompt.md*。
+该产品 Demo 参考 Salary 在 Youtube 上发布的 “CompAnalyst Demo Overview”，用 Google Antigravity，使用 Claude Opus 4.6 模型，vibe coding 得到。由于 Claude Opus 4.6 额度达到上限，导致 coding 期间产生中断，好在得到的结果在交互上效果不错，因此展示出来，但 Demo 细节还有待加强。具体 prompt 参考文件 *HR_Compensation_Analytics_Demo_Prompt.md*。
 
 *Demo Link:（打开此链接以体验使用该 Demo）*
 
