@@ -1,4 +1,4 @@
-两个 Demo，参考 Salary 在 Youtube 上发布的 “CompAnalyst Demo Overview” *( https://youtu.be/u6TZ853GSB0?si=CFC-YHCQzNI4d6BM )*，用 Google Antigravity vibe coding 得到。
+两个 Demo，参考 Salary 在 Youtube 上发布的 “CompAnalyst Demo Overview” *( https://youtu.be/u6TZ853GSB0?si=CFC-YHCQzNI4d6BM )*，用 Google Antigravity vibe coding 得到。模型反推生成的 PRD 文档可见 *Demo1_PRD.md & Demo2_PRD.md*
 
 Demo1 使用 Claude Opus 4.6 模型，由于 Claude Opus 4.6 额度达到上限，导致 coding 期间产生中断，好在得到的结果在交互上效果不错，因此展示出来，但 Demo 细节还有待加强。具体 prompt 参考文件 *HR_Compensation_Analytics_Demo_Prompt.md*。
 
